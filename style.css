@@ -1,1 +1,59 @@
+.upside {
+    float: left;
+    display: inline-block;
+    margin-left: 65px;
+}
 
+.main_button{
+    float: right;
+    display: inline-block;
+    margin-left: 65px;
+}
+
+.question{
+    padding: 70px;
+    text-align: center;
+}
+
+.answer_option{
+    text-align: center;
+}
+
+.ss1{
+    height: 33px;
+    width: 33px;
+    right: 33px;
+    left: 33px;
+    text-align: center;
+    display: inline-block;
+    background-color: blue;
+    margin-left: 55px;
+}
+
+.ss2{
+    height: 33px;
+    width: 33px;
+    right: 33px;
+    left: 33px;
+    text-align: center;
+    display: inline-block;
+    background-color: orange;
+    margin-left: 55px;
+}
+
+.ss3{
+    height: 33px;
+    width: 33px;
+    right: 33px;
+    left: 33px;
+    text-align: center;
+    display: inline-block;
+    background-color: blueviolet;
+    margin-left: 55px;
+}
+
+.upside1{
+    display: inline-block;
+    text-align: center;
+    margin: 65px;
+}
